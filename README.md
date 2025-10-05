@@ -132,6 +132,7 @@ Markdown
 
 **EVENT_BOOSTER** is a comprehensive, open-source Streamlit application designed to transform how you manage and engage with your event and webinar attendees. From personalized pre-event communications to gamified post-event follow-ups, this tool automates and optimizes your entire attendee lifecycle.
 
+
 ---
 
 ## ✨ Core Features
@@ -145,6 +146,8 @@ Markdown
 | ⚙️ | **Modular & Extensible** | Easily customize templates, add new features, and integrate with other systems. |
 
 ---
+
+
 
 ## 🚀 Quick Start
 
@@ -177,6 +180,8 @@ Bash
 streamlit run app.py
 The application will automatically open in your browser at http://localhost:8501.
 ```
+
+
 📁 Project Structure
 This project is structured to be modular and easy to navigate, with a focus on data separation and clear logic flow.
 
@@ -193,6 +198,8 @@ event_booster/
 ├── user_activities.json # 💾 Data store for gamification and live interaction logs
 ├── README.md           # This file
 └── requirements.txt    # Project dependencies
+
+
 ⚙️ Data Formats
 The application relies on two primary CSV files for event and attendee data.
 
@@ -215,9 +222,14 @@ Date	Event date	2025-10-15
 Topic	Primary focus area	"AI & Machine Learning"
 
 Export to Sheets
+
+
 🎯 Key Application Sections
 📊 Dashboard
 The central hub for data visualization. Monitor Key Metrics (Attendance Rate, Total Registered), analyze Event Summary breakdowns, and interact with live Visual Analytics powered by Plotly.
+
+
+
 
 📧 Pre- & Post-Event Communications
 Segment attendees for maximum impact:
@@ -228,8 +240,13 @@ No-show Re-engagement: Automated campaigns with special offers to convert missed
 
 Bulk Operations: Export all generated email templates for easy sending via your own ESP.
 
+
+
 💡 Insights & Analytics
 Go beyond simple numbers. Use the Interest Analysis to inform future content strategy and the Event Performance metrics to compare attendance rates and ROI across different events.
+
+
+
 
 🎮 Gamification Engine
 Leverage gamification_engine.py to add a layer of fun:
@@ -240,6 +257,9 @@ Assign points for actions (Q&A submission, resource download).
 
 Use the data to segment and reward your most engaged attendees.
 
+
+
+
 🛠️ Customization & Extensibility
 The modular architecture makes this project easily adaptable to your specific needs.
 
@@ -249,6 +269,9 @@ Enhance AI: Modify ai_components.py to add new features like automated resource 
 
 Add New Data Sources: Easily integrate with other event platforms (e.g., Eventbrite, Zoom) by creating new data loading functions.
 
+
+
+
 🚀 Future Roadmap
 Direct Email Integration: Connecting to popular ESPs (SendGrid, Mailchimp) for in-app sending.
 
@@ -257,6 +280,8 @@ Advanced Segmentation: Using machine learning to predict attendance and segment 
 A/B Testing Module: Built-in functionality for testing message templates and subject lines.
 
 CI/CD Pipeline: Streamlining deployment for production environments.
+
+
 
 📞 Support & Contributing
 We welcome contributions! Please feel free to open a pull request or submit an issue to the repository.
