@@ -1,0 +1,107 @@
+{
+  "Nilesh": {
+    "interests": "AI;SaaS",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Taniya": {
+    "interests": "Cloud;Security",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 1,
+      "poll_participation": 1,
+      "social_share": 0,
+      "event_attendance": 0,
+      "quiz_scores": 1.0
+    }
+  },
+  "Arjun": {
+    "interests": "Marketing;SaaS",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Riya": {
+    "interests": "AI;Data Science",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Amit": {
+    "interests": "DevOps;Cloud",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Sneha": {
+    "interests": "UI/UX;Design",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Rahul": {
+    "interests": "Blockchain;Crypto",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Kavya": {
+    "interests": "Marketing;Analytics",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Vikram": {
+    "interests": "AI;Machine Learning",
+    "days_before_registration": 10,
+    "activities": {
+      "event_registration": 1,
+      "pre_event_quiz": 0,
+      "poll_participation": 0,
+      "social_share": 0,
+      "event_attendance": 0
+    }
+  },
+  "Pooja": {
+    "interests": "Security;Cybersecurity",
+    "days_before_registration": 10,
+    "activities": {}
+  }
+}
